@@ -1,0 +1,7 @@
+.python-version
+.cache
+.idea
+.pytest_cache
+*.iml
+*.egg-info
+*.pyc
