@@ -5,3 +5,6 @@
 *.iml
 *.egg-info
 *.pyc
+
+build
+dist
